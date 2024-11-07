@@ -82,7 +82,7 @@ nav {
 /* About */
 
 .about {
-  height: 80vh;
+  height: 100vh;
   display: flex;
   padding: 0 10%;
 }
